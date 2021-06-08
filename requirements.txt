@@ -3,7 +3,7 @@ argcomplete==1.10.3
 certifi==2019.11.28
 chardet==3.0.4
 idna==2.8
-Pillow==6.2.1
+Pillow==8.2.0
 pycparser==2.19
 PyMuPDF==1.16.9
 PyQt5==5.13.2
